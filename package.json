@@ -1,0 +1,19 @@
+{
+  "name": "bitcoin",
+  "version": "1.0.0",
+  "description": "Bitcoin for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*"
+  },
+  "author": {
+    "name": "unrealce",
+    "email": "z3530515@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "base58check": "^2.0.0",
+    "ripemd160": "^2.0.1",
+    "secp256k1": "^3.2.0"
+  }
+}
